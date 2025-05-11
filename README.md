@@ -17,7 +17,7 @@ A real-time hand gesture recognition system built with Python, OpenCV, and Media
 
 ## Demo
 
-[View Demo Video](#)
+[View Demo Video](https://github.com/Pranay22077/Hand-Movement_Recognition/blob/main/demo.mkv)
 
 ## Requirements
 
