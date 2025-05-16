@@ -108,10 +108,6 @@ def detectNewGesture(self):
 - **Low FPS**: Lower the resolution in the `main()` function or use a more powerful computer
 - **Detection Issues**: Try adjusting lighting conditions or detection confidence parameters
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - [MediaPipe](https://mediapipe.dev/) for the hand tracking solution
